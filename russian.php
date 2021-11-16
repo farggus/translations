@@ -48,7 +48,7 @@
       'Please avoid using special characters for the username!' => 'Пожалуйста, не используйте странные символы в качестве логина!',
       'Username already in use. Please choose another one.' => 'Имя пользователя уже используется. Пожалуйста, выберите другое.',
       'Please type a password!' => 'Пожалуйста введите пароль!',
-      'Please retype the password correctly!' => 'Пожалуйста введите правильный пароль!',
+      'Please retype the password correctly!' => 'Пожалуйста, введите правильный пароль!',
       'Please type your name!' => 'Пожалуйста укажите Ваше имя!',
       'Please type your email address!' => 'Пожалуйста укажите Ваш email адрес!',
       'Please type the company name!' => 'Пожалуйста укажите название Вашей организации!',
